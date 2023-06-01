@@ -1,0 +1,11 @@
+.headerTitle {
+  cursor: pointer;
+}
+
+.sortArrow {
+  visibility: hidden;
+}
+
+.toggleArrow:hover ~ .sortArrow {
+  visibility: visible;
+}

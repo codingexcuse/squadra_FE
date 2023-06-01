@@ -1,0 +1,7 @@
+.prevButton {
+  cursor: pointer;
+  height: 35px;
+  border-radius: 3rem;
+  background-color: transparent;
+  border: solid 1px black;
+}
